@@ -1,0 +1,5 @@
+node_modules
+.history
+module_self
+request_modules
+.vscode
